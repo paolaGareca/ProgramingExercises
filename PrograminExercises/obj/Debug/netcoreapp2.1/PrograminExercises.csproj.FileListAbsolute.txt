@@ -1,0 +1,11 @@
+C:\Users\paola.gareca\Documents\PrograminExercises\bin\Debug\netcoreapp2.1\PrograminExercises.deps.json
+C:\Users\paola.gareca\Documents\PrograminExercises\bin\Debug\netcoreapp2.1\PrograminExercises.runtimeconfig.json
+C:\Users\paola.gareca\Documents\PrograminExercises\bin\Debug\netcoreapp2.1\PrograminExercises.runtimeconfig.dev.json
+C:\Users\paola.gareca\Documents\PrograminExercises\bin\Debug\netcoreapp2.1\PrograminExercises.dll
+C:\Users\paola.gareca\Documents\PrograminExercises\bin\Debug\netcoreapp2.1\PrograminExercises.pdb
+C:\Users\paola.gareca\Documents\PrograminExercises\obj\Debug\netcoreapp2.1\PrograminExercises.csprojAssemblyReference.cache
+C:\Users\paola.gareca\Documents\PrograminExercises\obj\Debug\netcoreapp2.1\PrograminExercises.csproj.CoreCompileInputs.cache
+C:\Users\paola.gareca\Documents\PrograminExercises\obj\Debug\netcoreapp2.1\PrograminExercises.AssemblyInfoInputs.cache
+C:\Users\paola.gareca\Documents\PrograminExercises\obj\Debug\netcoreapp2.1\PrograminExercises.AssemblyInfo.cs
+C:\Users\paola.gareca\Documents\PrograminExercises\obj\Debug\netcoreapp2.1\PrograminExercises.dll
+C:\Users\paola.gareca\Documents\PrograminExercises\obj\Debug\netcoreapp2.1\PrograminExercises.pdb
