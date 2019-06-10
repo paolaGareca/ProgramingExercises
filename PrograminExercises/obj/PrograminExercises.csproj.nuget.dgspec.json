@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\paola.gareca\\Documents\\PrograminExercises\\PrograminExercises.csproj": {}
+    "C:\\Repos\\GIT\\FirstUser\\ProgramingExercises\\PrograminExercises\\PrograminExercises.csproj": {}
   },
   "projects": {
-    "C:\\Users\\paola.gareca\\Documents\\PrograminExercises\\PrograminExercises.csproj": {
+    "C:\\Repos\\GIT\\FirstUser\\ProgramingExercises\\PrograminExercises\\PrograminExercises.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\paola.gareca\\Documents\\PrograminExercises\\PrograminExercises.csproj",
+        "projectUniqueName": "C:\\Repos\\GIT\\FirstUser\\ProgramingExercises\\PrograminExercises\\PrograminExercises.csproj",
         "projectName": "PrograminExercises",
-        "projectPath": "C:\\Users\\paola.gareca\\Documents\\PrograminExercises\\PrograminExercises.csproj",
+        "projectPath": "C:\\Repos\\GIT\\FirstUser\\ProgramingExercises\\PrograminExercises\\PrograminExercises.csproj",
         "packagesPath": "C:\\Users\\paola.gareca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\paola.gareca\\Documents\\PrograminExercises\\obj\\",
+        "outputPath": "C:\\Repos\\GIT\\FirstUser\\ProgramingExercises\\PrograminExercises\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

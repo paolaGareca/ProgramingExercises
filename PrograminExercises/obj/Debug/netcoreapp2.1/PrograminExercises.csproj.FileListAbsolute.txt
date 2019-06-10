@@ -9,3 +9,14 @@ C:\Users\paola.gareca\Documents\PrograminExercises\obj\Debug\netcoreapp2.1\Progr
 C:\Users\paola.gareca\Documents\PrograminExercises\obj\Debug\netcoreapp2.1\PrograminExercises.AssemblyInfo.cs
 C:\Users\paola.gareca\Documents\PrograminExercises\obj\Debug\netcoreapp2.1\PrograminExercises.dll
 C:\Users\paola.gareca\Documents\PrograminExercises\obj\Debug\netcoreapp2.1\PrograminExercises.pdb
+C:\Repos\GIT\FirstUser\ProgramingExercises\PrograminExercises\obj\Debug\netcoreapp2.1\PrograminExercises.csprojAssemblyReference.cache
+C:\Repos\GIT\FirstUser\ProgramingExercises\PrograminExercises\obj\Debug\netcoreapp2.1\PrograminExercises.csproj.CoreCompileInputs.cache
+C:\Repos\GIT\FirstUser\ProgramingExercises\PrograminExercises\obj\Debug\netcoreapp2.1\PrograminExercises.AssemblyInfoInputs.cache
+C:\Repos\GIT\FirstUser\ProgramingExercises\PrograminExercises\obj\Debug\netcoreapp2.1\PrograminExercises.AssemblyInfo.cs
+C:\Repos\GIT\FirstUser\ProgramingExercises\PrograminExercises\obj\Debug\netcoreapp2.1\PrograminExercises.dll
+C:\Repos\GIT\FirstUser\ProgramingExercises\PrograminExercises\obj\Debug\netcoreapp2.1\PrograminExercises.pdb
+C:\Repos\GIT\FirstUser\ProgramingExercises\PrograminExercises\bin\Debug\netcoreapp2.1\PrograminExercises.deps.json
+C:\Repos\GIT\FirstUser\ProgramingExercises\PrograminExercises\bin\Debug\netcoreapp2.1\PrograminExercises.runtimeconfig.json
+C:\Repos\GIT\FirstUser\ProgramingExercises\PrograminExercises\bin\Debug\netcoreapp2.1\PrograminExercises.runtimeconfig.dev.json
+C:\Repos\GIT\FirstUser\ProgramingExercises\PrograminExercises\bin\Debug\netcoreapp2.1\PrograminExercises.dll
+C:\Repos\GIT\FirstUser\ProgramingExercises\PrograminExercises\bin\Debug\netcoreapp2.1\PrograminExercises.pdb
