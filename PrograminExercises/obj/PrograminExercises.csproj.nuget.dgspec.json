@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\GIT\\FirstUser\\ProgramingExercises\\PrograminExercises\\PrograminExercises.csproj": {}
+    "C:\\Repos\\GIT\\SecondUser\\ProgramingExercises\\PrograminExercises\\PrograminExercises.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\GIT\\FirstUser\\ProgramingExercises\\PrograminExercises\\PrograminExercises.csproj": {
+    "C:\\Repos\\GIT\\SecondUser\\ProgramingExercises\\PrograminExercises\\PrograminExercises.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\GIT\\FirstUser\\ProgramingExercises\\PrograminExercises\\PrograminExercises.csproj",
+        "projectUniqueName": "C:\\Repos\\GIT\\SecondUser\\ProgramingExercises\\PrograminExercises\\PrograminExercises.csproj",
         "projectName": "PrograminExercises",
-        "projectPath": "C:\\Repos\\GIT\\FirstUser\\ProgramingExercises\\PrograminExercises\\PrograminExercises.csproj",
+        "projectPath": "C:\\Repos\\GIT\\SecondUser\\ProgramingExercises\\PrograminExercises\\PrograminExercises.csproj",
         "packagesPath": "C:\\Users\\paola.gareca\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\GIT\\FirstUser\\ProgramingExercises\\PrograminExercises\\obj\\",
+        "outputPath": "C:\\Repos\\GIT\\SecondUser\\ProgramingExercises\\PrograminExercises\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
