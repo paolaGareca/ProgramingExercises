@@ -25,7 +25,6 @@ C:\Repos\GIT\SecondUser\ProgramingExercises\PrograminExercises\bin\Debug\netcore
 C:\Repos\GIT\SecondUser\ProgramingExercises\PrograminExercises\bin\Debug\netcoreapp2.1\PrograminExercises.runtimeconfig.dev.json
 C:\Repos\GIT\SecondUser\ProgramingExercises\PrograminExercises\bin\Debug\netcoreapp2.1\PrograminExercises.dll
 C:\Repos\GIT\SecondUser\ProgramingExercises\PrograminExercises\bin\Debug\netcoreapp2.1\PrograminExercises.pdb
-C:\Repos\GIT\SecondUser\ProgramingExercises\PrograminExercises\obj\Debug\netcoreapp2.1\PrograminExercises.csprojAssemblyReference.cache
 C:\Repos\GIT\SecondUser\ProgramingExercises\PrograminExercises\obj\Debug\netcoreapp2.1\PrograminExercises.csproj.CoreCompileInputs.cache
 C:\Repos\GIT\SecondUser\ProgramingExercises\PrograminExercises\obj\Debug\netcoreapp2.1\PrograminExercises.AssemblyInfoInputs.cache
 C:\Repos\GIT\SecondUser\ProgramingExercises\PrograminExercises\obj\Debug\netcoreapp2.1\PrograminExercises.AssemblyInfo.cs
